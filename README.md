@@ -1,0 +1,1 @@
+Hi guys! I made a Key Ring 3D Model with the model of Hakkun, one of the ARCADE pet that assist us! I did this project on Autodesk Fusion 360 and I shared in this repo the .STL file, so feel free to use it! You can open it with Solidworks, ThinkerCAD and other apps.
